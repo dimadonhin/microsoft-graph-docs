@@ -60,16 +60,20 @@ GET https://graph.microsoft.com/v1.0/users/{usersId}/getManagedDevicesWithAppFai
 [!INCLUDE [sample-code](../includes/snippets/csharp/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-csharp-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
-# [JavaScript](#tab/javascript)
-[!INCLUDE [sample-code](../includes/snippets/javascript/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-javascript-snippets.md)]
+# [CLI](#tab/cli)
+[!INCLUDE [sample-code](../includes/snippets/cli/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-cli-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [Go](#tab/go)
+[!INCLUDE [sample-code](../includes/snippets/go/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 # [Java](#tab/java)
 [!INCLUDE [sample-code](../includes/snippets/java/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-java-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
-# [Go](#tab/go)
-[!INCLUDE [sample-code](../includes/snippets/go/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-go-snippets.md)]
+# [JavaScript](#tab/javascript)
+[!INCLUDE [sample-code](../includes/snippets/javascript/intune-troubleshooting-user-getmanageddeviceswithappfailures-getmanageddeviceswithappfailures-function-javascript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 # [PHP](#tab/php)

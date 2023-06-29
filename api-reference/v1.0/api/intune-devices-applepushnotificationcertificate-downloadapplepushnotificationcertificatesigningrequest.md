@@ -60,16 +60,20 @@ GET https://graph.microsoft.com/v1.0/deviceManagement/applePushNotificationCerti
 [!INCLUDE [sample-code](../includes/snippets/csharp/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-csharp-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
-# [JavaScript](#tab/javascript)
-[!INCLUDE [sample-code](../includes/snippets/javascript/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-javascript-snippets.md)]
+# [CLI](#tab/cli)
+[!INCLUDE [sample-code](../includes/snippets/cli/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-cli-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [Go](#tab/go)
+[!INCLUDE [sample-code](../includes/snippets/go/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 # [Java](#tab/java)
 [!INCLUDE [sample-code](../includes/snippets/java/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-java-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
-# [Go](#tab/go)
-[!INCLUDE [sample-code](../includes/snippets/go/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-go-snippets.md)]
+# [JavaScript](#tab/javascript)
+[!INCLUDE [sample-code](../includes/snippets/javascript/intune-devices-applepushnotificationcertificate-downloadapplepushnotificationcertificatesigningrequest-downloadapplepushnotificationcertificatesigningrequest-function-javascript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 # [PHP](#tab/php)
